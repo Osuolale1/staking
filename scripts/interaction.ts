@@ -18,7 +18,7 @@ async function main() {
   const amountToStake = 100; // 10 tokens
   await stakingRewards.stake(amountToStake);
 
-  console.log('Staked tokens successfully.');
+  console.log('100Tokens Staked tokens successfully.');
 
   // Add more interactions as needed
 }
